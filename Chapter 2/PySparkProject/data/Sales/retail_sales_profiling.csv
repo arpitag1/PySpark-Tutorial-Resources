@@ -1,0 +1,326 @@
+order_id,order_date,customer_id,product_id,product_name,category,salesperson_id,salesperson_name,region,quantity,unit_price,discount_pct,discount_amount,total_amount,payment_method,order_status
+ORD1065,2024-12-21,CUST0011,P006,Notebook,Stationery,SP05,Divya Nair,North,3,65.08,15,29.29,165.95,Debit Card,Completed
+ORD1196,2024-06-29,CUST0019,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,5,929.24,20,929.24,3716.96,Debit Card,Pending
+ORD1283,2024-11-27,CUST0050,P009,Headphones,Electronics,SP02,Rahul Verma,South,4,2137.49,10,855.0,7694.96,Credit Card,Returned
+ORD1146,2024-12-30,CUST0052,P001,Laptop,Electronics,SP04,Karan Mehta,West,7,51860.97,15,54454.02,308572.77,Net Banking,Completed
+ORD1109,2024-07-27,CUST0021,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,5,1050.84,,,4623.7,Credit Card,Completed
+ORD1020,2024-08-04,CUST0022,P008,USB Hub,Electronics,SP05,Divya Nair,North,5,563.84,20,563.84,2255.36,Debit Card,Pending
+ORD1261,2024-06-03,CUST0031,P005,Monitor,Electronics,SP04,Karan Mehta,West,8,13276.3,10,10621.04,95589.36,Cash,Pending
+ORD1040,2024-04-17,CUST0071,P002,Smartphone,Electronics,SP06,Arjun Patel,South,3,17723.48,,,42536.35,UPI,Completed
+ORD1168,2024-09-18,CUST0010,P006,Notebook,Stationery,SP02,,South,9,113.32,20,203.98,815.9,Debit Card,Completed
+ORD1242,2024-11-18,CUST0007,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,10,980.45,20,1960.9,7843.6,Cash,Returned
+ORD1300,2024-11-26,CUST0002,P001,Laptop,Electronics,SP06,,South,3,45826.86,15,20622.09,116858.49,UPI,Pending
+ORD1211,2024-05-07,CUST0047,P003,Desk Chair,Furniture,SP05,Divya Nair,North,7,5257.54,10,3680.28,33122.5,Credit Card,Completed
+ORD1052,2024-07-05,CUST0067,P007,Office Desk,Furniture,SP01,Priya Sharma,North,9,10121.14,5,4554.51,86535.75,Net Banking,Completed
+ORD1268,2024-08-20,CUST0012,P010,Pen Set,Stationery,SP04,Karan Mehta,West,9,133.46,0,0.0,1201.14,Debit Card,Pending
+ORD1095,2024-04-16,CUST0080,P005,Monitor,Electronics,SP05,Divya Nair,North,1,12267.42,0,0.0,12267.42,Debit Card,Completed
+ORD1083,2024-12-25,CUST0034,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,6,779.66,20,935.59,3742.37,UPI,Pending
+ORD1278,2024-05-01,CUST0074,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,6,1077.47,10,646.48,5818.34,UPI,Completed
+ORD1145,2024-06-03,CUST0029,P008,USB Hub,Electronics,SP05,Divya Nair,North,10,321.68,20,643.36,2573.44,Net Banking,Completed
+ORD1089,2024-04-01,CUST0013,P010,Pen Set,Stationery,SP03,Ananya Singh,East,4,115.55,10,46.22,415.98,UPI,Completed
+ORD1282,2024-07-30,CUST0019,P005,Monitor,Electronics,SP06,Arjun Patel,South,8,14403.19,20,23045.1,92180.42,Net Banking,Pending
+ORD1263,2024-07-07,CUST0065,P007,Office Desk,Furniture,SP06,Arjun Patel,South,5,10141.74,10,5070.87,45637.83,,Completed
+ORD1001,2024-12-12,CUST0036,P002,Smartphone,Electronics,SP01,Priya Sharma,North,4,17232.11,0,0.0,68928.44,Cash,Completed
+ORD1302,2024-05-06,CUST0064,P002,Smartphone,Electronics,SP05,Divya Nair,South,1,250000,0,0,250000,Net Banking,Completed
+ORD1011,2024-07-21,CUST0073,P002,Smartphone,Electronics,SP02,Rahul Verma,South,6,17126.27,15,15413.64,87343.98,Net Banking,Completed
+ORD1137,2024-11-11,CUST0020,P010,Pen Set,Stationery,SP06,Arjun Patel,South,7,158.59,15,166.52,943.61,Net Banking,Completed
+ORD1288,2024-08-26,CUST0034,P006,Notebook,Stationery,SP03,Ananya Singh,East,6,101.28,15,91.15,516.53,Credit Card,Returned
+ORD1183,2024-09-26,CUST0038,P003,Desk Chair,Furniture,SP01,,North,2,6030.76,20,2412.3,9649.22,Credit Card,Completed
+ORD1312,2024-08-24,CUST0027,P006,Notebook,Stationery,SP04,Ananya Singh,North,4,0.0,100,0,0.0,Cash,Completed
+ORD1210,2024-08-15,CUST0020,P001,Laptop,Electronics,SP05,Divya Nair,North,8,54488.24,10,43590.59,392315.33,Credit Card,Pending
+ORD1024,2024-10-22,CUST0063,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,4,1039.23,,,3325.54,Net Banking,Completed
+ORD1136,2024-12-09,CUST0069,P002,Smartphone,Electronics,SP02,Rahul Verma,South,3,18886.46,10,5665.94,56092.78,Cash,Returned
+ORD1139,2024-03-03,CUST0046,P009,Headphones,Electronics,SP06,Arjun Patel,,1,2495.35,,,2370.58,Net Banking,Completed
+ORD1112,2024-05-16,CUST0036,P003,Desk Chair,Furniture,SP01,Priya Sharma,North,7,5359.5,20,7503.3,30013.2,Credit Card,Completed
+ORD1250,2024-09-02,CUST0011,P001,Laptop,Electronics,SP03,Ananya Singh,East,6,54240.1,10,32544.06,292896.54,Debit Card,Completed
+ORD1121,2024-09-28,CUST0046,P001,Laptop,Electronics,SP03,Ananya Singh,East,6,49306.87,5,14792.06,281049.16,Net Banking,Pending
+ORD1025,2024-06-30,CUST0025,P008,USB Hub,Electronics,SP04,Karan Mehta,West,2,348.47,15,104.54,592.4,Net Banking,Returned
+ORD1233,2024-07-06,CUST0014,P009,Headphones,Electronics,SP01,Priya Sharma,North,7,1834.84,10,1284.39,11559.49,Net Banking,Completed
+ORD1276,2024-12-10,CUST0013,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,10,533.58,20,1067.16,4268.64,Credit Card,Completed
+ORD1267,2024-08-14,CUST0069,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,3,,20,398.72,,Credit Card,Completed
+ORD1147,2024-11-15,CUST0078,P002,Smartphone,Electronics,SP03,Ananya Singh,East,3,15656.82,10,4697.05,42273.41,Cash,Pending
+ORD1184,2024-12-20,CUST0077,P010,Pen Set,Stationery,SP02,Rahul Verma,South,7,98.51,5,34.48,655.09,Cash,Completed
+ORD1026,2024-02-25,CUST0007,P008,USB Hub,Electronics,SP06,Arjun Patel,South,2,330.31,10,66.06,594.56,Debit Card,Completed
+ORD1046,2024-07-29,CUST0023,P004,Wireless Mouse,Electronics,SP02,Rahul Verma,South,7,524.79,10,367.35,3306.18,,Completed
+ORD1021,2024-08-12,CUST0040,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,7,1495.15,10,1046.61,9419.44,Cash,Returned
+ORD1010,2024-06-10,CUST0042,P009,Headphones,Electronics,SP02,Rahul Verma,South,1,2072.62,0,0.0,2072.62,Net Banking,Completed
+ORD1082,2024-06-15,CUST0079,P008,USB Hub,Electronics,SP05,Divya Nair,North,7,468.2,15,491.61,2785.79,Debit Card,Returned
+ORD1296,2024-09-14,CUST0036,P009,Headphones,Electronics,SP06,Arjun Patel,South,9,3943.7,0,0.0,35493.3,Net Banking,Completed
+ORD1306,2024-12-21,CUST0063,P004,Wireless Mouse,Electronics,SP05,Rahul Verma,East,220,1468.73,20,64624.12,258496.48,Net Banking,Completed
+ORD1022,2024-10-10,CUST0029,P002,Smartphone,Electronics,SP02,Rahul Verma,South,2,18380.86,,,29409.38,Debit Card,Pending
+ORD1067,2024-06-29,CUST0003,P007,Office Desk,Furniture,SP05,Divya Nair,North,10,8282.29,0,0.0,82822.9,UPI,Returned
+ORD1075,2024-03-24,CUST0078,P006,Notebook,Stationery,SP02,Rahul Verma,South,10,146.37,0,0.0,1463.7,UPI,Completed
+ORD1004,2024-02-22,CUST0036,P007,Office Desk,Furniture,SP03,Ananya Singh,East,3,7291.88,10,2187.56,19688.08,Credit Card,Returned
+ORD1115,2024-12-27,CUST0053,P007,Office Desk,Furniture,SP02,Rahul Verma,South,1,7909.06,15,1186.36,6722.7,Net Banking,Returned
+ORD1199,2024-05-03,CUST0003,P005,Monitor,Electronics,SP06,Arjun Patel,South,6,,10,8111.78,,Credit Card,Pending
+ORD1049,2024-06-18,CUST0045,P002,Smartphone,Electronics,SP03,Ananya Singh,East,9,18996.78,,,136776.82,Credit Card,Completed
+ORD1009,2024-08-24,CUST0022,P010,Pen Set,Stationery,SP06,Arjun Patel,South,9,167.5,,,1432.12,Net Banking,Completed
+ORD1007,2024-02-21,CUST0030,P002,Smartphone,Electronics,SP01,Priya Sharma,North,5,24852.22,5,6213.06,118048.04,,Completed
+ORD1212,2024-05-14,CUST0067,P003,Desk Chair,Furniture,SP04,Karan Mehta,West,7,,0,0.0,,UPI,Returned
+ORD1273,2024-01-02,CUST0051,P003,Desk Chair,Furniture,SP05,Divya Nair,North,9,4509.39,5,2029.23,38555.28,Credit Card,Completed
+ORD1087,2024-03-02,CUST0059,P006,Notebook,Stationery,SP03,Ananya Singh,East,5,,5,20.16,,Debit Card,Completed
+ORD1033,2024-07-25,CUST0009,P002,Smartphone,Electronics,SP02,Rahul Verma,South,10,15679.61,5,7839.81,148956.29,Credit Card,Pending
+ORD1178,2024-12-13,CUST0043,P001,Laptop,Electronics,SP06,Arjun Patel,South,2,48296.91,,,77275.06,Net Banking,Completed
+ORD1061,2024-12-07,CUST0032,P001,Laptop,Electronics,SP05,Divya Nair,North,2,49564.62,15,14869.39,84259.85,Cash,Pending
+ORD1135,2024-06-04,CUST0053,P005,Monitor,Electronics,SP06,Arjun Patel,South,2,8978.44,0,0.0,17956.88,Net Banking,Completed
+ORD1188,2024-02-22,CUST0007,P003,Desk Chair,Furniture,SP03,Ananya Singh,East,8,7496.47,20,11994.35,47977.41,Cash,Completed
+ORD1309,2024-02-25,CUST0007,P008,USB Hub,Electronics,SP06,Arjun Patel,South,2,330.31,10,66.06,-594.56,Debit Card,Returned
+ORD1042,2024-03-23,CUST0043,P001,Laptop,Electronics,SP01,Priya Sharma,North,3,51371.13,10,15411.34,138702.05,Net Banking,Pending
+ORD1226,2024-09-04,CUST0010,P005,Monitor,Electronics,SP04,Karan Mehta,West,1,9106.56,15,1365.98,7740.58,Net Banking,Completed
+ORD1122,2024-11-13,CUST0023,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,2,6437.97,15,1931.39,10944.55,Debit Card,Returned
+ORD1120,2024-01-15,CUST0013,P002,Smartphone,Electronics,SP04,Karan Mehta,West,2,19436.79,10,3887.36,34986.22,Credit Card,Completed
+ORD1280,2024-09-25,CUST0007,P009,Headphones,Electronics,SP04,Karan Mehta,West,6,3853.97,15,3468.57,19655.25,UPI,Returned
+ORD1049,2024-06-18,CUST0045,P002,Smartphone,Electronics,SP03,Ananya Singh,East,9,18996.78,,,136776.82,Credit Card,Completed
+ORD1241,2024-12-01,CUST0040,P007,Office Desk,Furniture,SP05,Divya Nair,North,1,9581.46,10,958.15,8623.31,Cash,Pending
+ORD1080,2024-09-04,CUST0067,P007,Office Desk,Furniture,SP02,Rahul Verma,South,5,9695.47,20,9695.47,38781.88,Net Banking,Returned
+ORD1018,2024-06-06,CUST0063,P010,Pen Set,Stationery,SP03,Ananya Singh,East,1,93.42,10,9.34,84.08,Debit Card,Completed
+ORD1254,2024-11-29,CUST0042,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,5,1145.9,0,0.0,5729.5,Cash,Completed
+ORD1231,2024-09-15,CUST0064,P008,USB Hub,Electronics,SP03,,East,1,345.02,15,51.75,293.27,Net Banking,Completed
+ORD1237,2024-01-20,CUST0066,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,7,1000.08,0,0.0,7000.56,Debit Card,Completed
+ORD1076,2024-07-22,CUST0040,P010,Pen Set,Stationery,SP01,Priya Sharma,North,10,161.28,15,241.92,1370.88,Debit Card,Completed
+ORD1207,2024-11-10,CUST0057,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,6,5788.52,10,3473.11,31258.01,Net Banking,Completed
+ORD1171,2024-03-18,CUST0073,P008,USB Hub,Electronics,SP06,Arjun Patel,South,10,461.6,10,461.6,4154.4,Net Banking,Completed
+ORD1016,2024-09-16,CUST0001,P003,Desk Chair,Furniture,SP04,,West,5,7887.55,5,1971.89,37465.86,Credit Card,Completed
+ORD1132,2024-01-08,CUST0051,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,9,5463.1,15,7375.19,41792.71,UPI,Pending
+ORD1012,2024-08-07,CUST0032,P005,Monitor,Electronics,SP02,Rahul Verma,South,9,11772.84,20,21191.11,84764.45,Cash,Returned
+ORD1161,2024-01-24,CUST0076,P002,Smartphone,Electronics,SP03,Ananya Singh,East,8,20269.34,10,16215.47,145939.25,Debit Card,Returned
+ORD1034,2024-12-02,CUST0077,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,1,1119.38,15,167.91,951.47,Cash,Pending
+ORD1058,2024-08-31,CUST0026,P005,Monitor,Electronics,SP02,Rahul Verma,South,3,8170.98,5,1225.65,23287.29,Cash,Completed
+ORD1123,2024-05-10,CUST0030,P010,Pen Set,Stationery,SP02,Rahul Verma,South,8,156.55,15,187.86,1064.54,Credit Card,Returned
+ORD1039,2024-03-09,CUST0071,P009,Headphones,Electronics,SP01,,North,5,3829.39,,,19146.95,UPI,Completed
+ORD1032,2024-03-21,CUST0062,P001,Laptop,Electronics,SP05,Divya Nair,North,9,54193.87,20,97548.97,390195.86,Credit Card,Pending
+ORD1200,2024-12-16,CUST0006,P006,Notebook,Stationery,SP02,,South,6,104.6,,,596.22,Net Banking,Returned
+ORD1236,2024-10-12,CUST0051,P003,Desk Chair,Furniture,SP01,Priya Sharma,North,6,7179.59,10,4307.75,38769.79,UPI,Completed
+ORD1156,2024-10-16,CUST0045,P005,Monitor,Electronics,SP03,Ananya Singh,East,1,9269.84,5,463.49,9686.99,Net Banking,Completed
+ORD1265,2024-02-11,CUST0028,P008,USB Hub,Electronics,SP05,Divya Nair,North,4,640.17,20,512.14,2048.54,Cash,Returned
+ORD1187,2024-03-23,CUST0037,P008,USB Hub,Electronics,SP04,Karan Mehta,West,7,551.45,15,579.02,3281.13,Debit Card,Pending
+ORD1057,2024-06-20,CUST0022,P008,USB Hub,Electronics,SP06,Arjun Patel,South,2,441.89,20,176.76,707.02,Credit Card,Completed
+ORD1093,2024-10-12,CUST0039,P003,Desk Chair,Furniture,SP05,Divya Nair,North,2,7975.67,0,0.0,15951.34,Net Banking,Pending
+ORD1284,2024-12-10,CUST0069,P006,Notebook,Stationery,SP01,,North,4,55.15,15,33.09,187.51,,Pending
+ORD1252,2024-02-21,CUST0068,P001,Laptop,Electronics,SP06,,South,4,51379.45,0,0.0,205517.8,Net Banking,Completed
+ORD1097,2024-12-25,CUST0038,P010,Pen Set,Stationery,SP04,Karan Mehta,West,1,107.78,10,10.78,97.0,Net Banking,Completed
+ORD1103,2024-08-11,CUST0057,P008,USB Hub,Electronics,SP05,Divya Nair,North,5,390.74,20,390.74,1562.96,Net Banking,Completed
+ORD1167,2024-06-07,CUST0076,P004,Wireless Mouse,Electronics,SP04,Karan Mehta,West,7,1023.96,15,1075.16,6092.56,,Completed
+ORD1070,2024-02-12,CUST0004,P010,Pen Set,Stationery,SP05,Divya Nair,North,7,151.03,0,0.0,1057.21,Net Banking,Completed
+ORD1117,2024-12-01,CUST0059,P002,Smartphone,Electronics,SP05,,North,1,22224.44,15,3333.67,18890.77,Debit Card,Completed
+ORD1140,2024-05-04,CUST0077,P004,Wireless Mouse,Electronics,SP06,,South,1,550.58,10,55.06,495.52,Debit Card,Pending
+ORD1303,2024-08-22,CUST0014,P004,Wireless Mouse,Electronics,SP02,Ananya Singh,North,1,15000,0,0,15000,Net Banking,Completed
+ORD1149,2024-07-30,CUST0071,P002,Smartphone,Electronics,SP06,Arjun Patel,South,4,19300.7,5,3860.14,73342.66,UPI,Returned
+ORD1015,2024-02-27,CUST0015,P001,Laptop,Electronics,SP06,Arjun Patel,South,9,52508.78,10,47257.9,425321.12,UPI,Returned
+ORD1066,2024-02-01,CUST0053,P002,Smartphone,Electronics,SP04,Karan Mehta,West,6,20426.11,15,18383.5,104173.16,Debit Card,Returned
+ORD1071,2024-08-20,CUST0007,P008,USB Hub,Electronics,SP02,Rahul Verma,South,5,489.55,5,122.39,2325.36,UPI,Completed
+ORD1064,2024-04-30,CUST0031,P008,USB Hub,Electronics,SP06,Arjun Patel,South,5,519.94,10,259.97,2339.73,UPI,Completed
+ORD1113,2024-10-02,CUST0075,P005,Monitor,Electronics,SP05,Divya Nair,North,8,14056.82,15,16868.18,95586.38,Net Banking,Completed
+ORD1281,2024-08-30,CUST0039,P007,Office Desk,Furniture,SP02,Rahul Verma,South,7,7103.27,20,9944.58,39778.31,Debit Card,Completed
+ORD1249,2024-06-25,CUST0070,P010,Pen Set,Stationery,SP06,Arjun Patel,South,7,187.49,15,196.86,1115.57,Debit Card,Completed
+ORD1271,2024-03-10,CUST0061,P001,Laptop,Electronics,SP01,Priya Sharma,North,1,47870.91,,,45477.36,Net Banking,Completed
+ORD1059,2024-09-10,CUST0074,P008,USB Hub,Electronics,SP04,Karan Mehta,West,4,659.17,15,395.5,2241.18,Net Banking,Completed
+ORD1163,2024-03-07,CUST0001,P006,Notebook,Stationery,SP01,Priya Sharma,,8,124.7,5,49.88,947.72,Net Banking,Pending
+ORD1129,2024-02-16,CUST0005,P005,Monitor,Electronics,SP04,Karan Mehta,West,10,10554.03,5,5277.02,100263.28,UPI,Completed
+ORD1165,2024-05-28,CUST0074,P002,Smartphone,Electronics,SP03,Ananya Singh,East,7,20734.0,15,21770.7,123367.3,Credit Card,Returned
+ORD1069,2024-03-25,CUST0050,P008,USB Hub,Electronics,SP01,Priya Sharma,North,6,634.44,15,571.0,3235.64,Net Banking,Completed
+ORD1141,2024-06-17,CUST0071,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,4,1086.38,5,217.28,4128.24,Debit Card,Pending
+ORD1209,2024-07-04,CUST0017,P008,USB Hub,Electronics,SP01,Priya Sharma,North,2,418.0,10,83.6,752.4,,Pending
+ORD1005,2024-08-23,CUST0045,P002,Smartphone,Electronics,SP03,Ananya Singh,East,10,17645.21,0,0.0,176452.1,Cash,Completed
+ORD1304,2024-07-13,CUST0043,P004,Wireless Mouse,Electronics,SP04,Ananya Singh,West,350,832.22,20,58255.4,233021.6,Net Banking,Completed
+ORD1029,2024-01-31,CUST0063,P003,Desk Chair,Furniture,SP04,Karan Mehta,West,8,4854.99,15,5825.99,33013.93,Debit Card,Returned
+ORD1098,2024-04-25,CUST0076,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,4,925.14,20,740.11,2960.45,Debit Card,Completed
+ORD1224,2024-08-01,CUST0074,P001,Laptop,Electronics,SP06,Arjun Patel,South,5,51511.3,,,206045.2,Cash,Completed
+ORD1223,2024-01-22,CUST0078,P010,Pen Set,Stationery,SP06,Arjun Patel,South,6,181.1,20,217.32,869.28,Credit Card,Completed
+ORD1175,2024-08-18,CUST0061,P006,Notebook,Stationery,SP05,,North,9,65.09,0,0.0,585.81,Credit Card,Completed
+ORD1186,2024-04-09,CUST0069,P008,USB Hub,Electronics,SP02,Rahul Verma,South,4,454.73,15,272.84,1546.08,UPI,Pending
+ORD1134,2024-11-27,CUST0072,P001,Laptop,Electronics,SP05,Divya Nair,North,6,54152.56,5,16245.77,308669.59,Credit Card,Returned
+ORD1287,2024-07-13,CUST0031,P004,Wireless Mouse,Electronics,SP04,Karan Mehta,West,9,,10,739.46,,Net Banking,Pending
+ORD1107,2024-01-27,CUST0047,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,10,1256.44,,,10679.74,Debit Card,Completed
+ORD1150,2024-07-10,CUST0013,P007,Office Desk,Furniture,SP04,Karan Mehta,West,6,,10,5136.35,,Debit Card,Returned
+ORD1105,2024-06-10,CUST0052,P008,USB Hub,Electronics,SP03,Ananya Singh,East,9,318.35,0,0.0,2865.15,UPI,Completed
+ORD1127,2024-04-27,CUST0007,P001,Laptop,Electronics,SP05,,North,10,52451.72,10,52451.72,472065.48,Cash,Completed
+ORD1308,2024-06-06,CUST0063,P010,Pen Set,Stationery,SP03,Ananya Singh,East,1,93.42,10,9.34,-84.08,Debit Card,Returned
+ORD1019,2024-09-29,CUST0011,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,2,1231.91,0,0.0,2463.82,Debit Card,Completed
+ORD1298,2024-10-16,CUST0011,P005,Monitor,Electronics,SP04,Karan Mehta,West,6,14715.08,15,13243.57,75046.91,Debit Card,Completed
+ORD1247,2024-04-25,CUST0025,P010,Pen Set,Stationery,SP04,Karan Mehta,West,4,113.48,10,45.39,408.53,UPI,Completed
+ORD1155,2024-01-15,CUST0079,P009,Headphones,Electronics,SP05,Divya Nair,North,9,1565.63,10,1409.07,12681.6,Debit Card,Completed
+ORD1003,2024-05-22,CUST0070,P009,Headphones,Electronics,SP02,Rahul Verma,,7,2051.1,20,2871.54,11486.16,Credit Card,Completed
+ORD1092,2024-10-22,CUST0015,P005,Monitor,Electronics,SP04,Karan Mehta,West,2,10804.95,,,21609.9,Credit Card,Completed
+ORD1014,2024-09-27,CUST0009,P007,Office Desk,Furniture,SP05,Divya Nair,North,7,8289.72,15,8704.21,49323.83,,Pending
+ORD1219,2024-08-09,CUST0076,P003,Desk Chair,Furniture,SP05,Divya Nair,North,3,7071.13,5,1060.67,20152.72,Cash,Completed
+ORD1195,2024-11-19,CUST0015,P008,USB Hub,Electronics,SP01,,North,8,598.37,0,0.0,4786.96,Cash,Pending
+ORD1310,2024-10-22,CUST0063,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,4,1039.23,,,-3325.54,Net Banking,Returned
+ORD1269,2024-01-12,CUST0073,P007,Office Desk,Furniture,SP04,Karan Mehta,West,1,9352.78,10,935.28,8417.5,Net Banking,Completed
+ORD1074,2024-04-21,CUST0017,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,8,6677.84,,,42738.18,Net Banking,Completed
+ORD1305,2024-12-21,CUST0026,P002,Smartphone,Electronics,SP04,Ananya Singh,South,350,18004.35,20,1260304.5,5041218.0,Net Banking,Completed
+ORD1245,2024-12-05,CUST0018,P001,Laptop,Electronics,SP06,Arjun Patel,South,9,47073.42,10,42366.08,381294.7,Net Banking,Pending
+ORD1143,2024-05-15,CUST0031,P001,Laptop,Electronics,SP03,Ananya Singh,East,10,48237.71,5,24118.85,458258.25,Credit Card,Completed
+ORD1180,2024-06-07,CUST0051,P005,Monitor,Electronics,SP06,Arjun Patel,South,3,12165.29,0,0.0,36495.87,Cash,Returned
+ORD1203,2024-05-19,CUST0046,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,1,1365.8,10,136.58,1229.22,Credit Card,Completed
+ORD1125,2024-02-24,CUST0039,P005,Monitor,Electronics,SP04,Karan Mehta,West,4,,15,8997.37,,Debit Card,Returned
+ORD1202,2024-08-30,CUST0066,P006,Notebook,Stationery,SP03,Ananya Singh,East,7,148.91,20,208.47,833.9,UPI,Completed
+ORD1109,2024-07-27,CUST0021,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,5,1050.84,,,4203.36,Credit Card,Completed
+ORD1099,2024-10-18,CUST0008,P003,Desk Chair,Furniture,SP01,Priya Sharma,North,3,7170.51,20,4302.31,17209.22,UPI,Returned
+ORD1122,2024-11-13,CUST0023,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,2,6437.97,15,1931.39,12039.01,Debit Card,Returned
+ORD1036,2024-01-05,CUST0039,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,8,5264.71,0,0.0,42117.68,Net Banking,Pending
+ORD1243,2024-04-07,CUST0032,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,1,6290.28,0,0.0,6290.28,Credit Card,Returned
+ORD1108,2024-03-03,CUST0037,P009,Headphones,Electronics,SP02,Rahul Verma,South,8,3702.12,15,4442.54,25174.42,Credit Card,Pending
+ORD1222,2024-10-24,CUST0012,P010,Pen Set,Stationery,SP05,,North,9,156.92,20,282.46,1129.82,Debit Card,Completed
+ORD1131,2024-02-28,CUST0062,P003,Desk Chair,Furniture,SP03,Ananya Singh,East,5,6986.24,10,3493.12,31438.08,Net Banking,Completed
+ORD1037,2024-03-08,CUST0010,P010,Pen Set,Stationery,SP01,Priya Sharma,North,9,105.58,10,95.02,855.2,UPI,Completed
+ORD1096,2024-01-02,CUST0031,P002,Smartphone,Electronics,SP02,,,3,20519.92,5,3077.99,58481.77,Net Banking,Returned
+ORD1047,2024-04-23,CUST0014,P003,Desk Chair,Furniture,SP06,Arjun Patel,,7,7488.67,15,7863.1,44557.59,Debit Card,Returned
+ORD1039,2024-03-09,CUST0071,P009,Headphones,Electronics,SP01,,North,5,3829.39,,,19146.95,UPI,Completed
+ORD1307,2024-06-30,CUST0025,P008,USB Hub,Electronics,SP04,Karan Mehta,West,2,348.47,15,104.54,-592.4,Net Banking,Returned
+ORD1062,2024-08-06,CUST0057,P010,Pen Set,Stationery,SP03,Ananya Singh,East,10,177.8,20,355.6,1422.4,Cash,Returned
+ORD1031,2024-02-01,CUST0028,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,1,1079.18,20,215.84,863.34,UPI,Completed
+ORD1191,2024-11-28,CUST0048,P007,Office Desk,Furniture,SP01,Priya Sharma,North,4,6169.13,0,0.0,24676.52,UPI,Completed
+ORD1258,2024-04-05,CUST0043,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,3,1231.12,10,369.34,3324.02,Credit Card,Completed
+ORD1264,2024-07-10,CUST0062,P004,Wireless Mouse,Electronics,SP02,Rahul Verma,South,3,954.98,20,572.99,2291.95,Net Banking,Pending
+ORD1022,2024-10-10,CUST0029,P002,Smartphone,Electronics,SP02,Rahul Verma,South,2,18380.86,,,29409.38,Debit Card,Pending
+ORD1251,2024-10-27,CUST0072,P009,Headphones,Electronics,SP03,Ananya Singh,East,5,1843.18,20,1843.18,7372.72,Debit Card,Completed
+ORD1295,2024-07-29,CUST0063,P010,Pen Set,Stationery,SP04,Karan Mehta,West,1,80.79,20,16.16,64.63,Credit Card,Completed
+ORD1077,2024-12-16,CUST0032,P010,Pen Set,Stationery,SP06,Arjun Patel,South,2,163.66,10,32.73,294.59,Cash,Completed
+ORD1173,2024-02-09,CUST0005,P008,USB Hub,Electronics,SP04,Karan Mehta,West,1,484.37,10,48.44,435.93,Credit Card,Pending
+ORD1240,2024-07-07,CUST0063,P009,Headphones,Electronics,SP05,Divya Nair,North,10,2249.48,0,0.0,22494.8,UPI,Completed
+ORD1159,2024-08-14,CUST0080,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,1,6695.87,10,669.59,6026.28,Net Banking,Returned
+ORD1198,2024-11-21,CUST0003,P009,Headphones,Electronics,SP05,Divya Nair,North,7,3683.33,0,0.0,25783.31,,Completed
+ORD1091,2024-06-23,CUST0074,P002,Smartphone,Electronics,SP01,Priya Sharma,North,5,19693.97,15,14770.48,83699.37,Debit Card,Completed
+ORD1090,2024-05-29,CUST0036,P009,Headphones,Electronics,SP02,Rahul Verma,South,1,3935.74,20,787.15,3148.59,Debit Card,Returned
+ORD1197,2024-09-26,CUST0011,P007,Office Desk,Furniture,SP02,Rahul Verma,South,9,11847.93,,,106631.37,Cash,Pending
+ORD1151,2024-03-07,CUST0011,P002,Smartphone,Electronics,SP01,Priya Sharma,North,2,19318.77,10,3863.75,34773.79,Cash,Completed
+ORD1101,2024-05-08,CUST0006,P002,Smartphone,Electronics,SP05,Divya Nair,North,7,22345.34,20,31283.48,125133.9,Credit Card,Completed
+ORD1157,2024-07-11,CUST0004,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,2,6984.45,5,698.45,13270.45,Net Banking,Returned
+ORD1216,2024-10-09,CUST0047,P008,USB Hub,Electronics,SP01,Priya Sharma,North,9,586.14,15,791.29,4483.97,Debit Card,Pending
+ORD1153,2024-04-18,CUST0040,P005,Monitor,Electronics,SP05,Divya Nair,North,6,8725.2,20,10470.24,41880.96,Debit Card,Returned
+ORD1081,2024-05-22,CUST0042,P010,Pen Set,Stationery,SP03,Ananya Singh,East,4,179.69,0,0.0,718.76,Net Banking,Completed
+ORD1227,2024-06-25,CUST0019,P006,Notebook,Stationery,SP05,Divya Nair,North,6,136.15,10,81.69,735.21,Net Banking,Completed
+ORD1136,2024-12-09,CUST0069,P002,Smartphone,Electronics,SP02,Rahul Verma,South,3,18886.46,10,5665.94,50993.44,Cash,Returned
+ORD1126,2024-01-12,CUST0074,P010,Pen Set,Stationery,SP03,Ananya Singh,East,5,199.12,10,99.56,896.04,Net Banking,Completed
+ORD1172,2024-09-16,CUST0039,P008,USB Hub,Electronics,SP04,Karan Mehta,West,5,595.71,10,297.86,2680.69,Credit Card,Completed
+ORD1068,2024-04-22,CUST0070,P007,Office Desk,Furniture,SP05,Divya Nair,,10,11386.87,15,17080.31,96788.39,UPI,Returned
+ORD1253,2024-07-27,CUST0018,P008,USB Hub,Electronics,SP01,Priya Sharma,North,1,782.26,5,39.11,743.15,Net Banking,Returned
+ORD1118,2024-06-17,CUST0044,P008,USB Hub,Electronics,SP03,Ananya Singh,East,10,646.35,,,6463.5,Cash,Returned
+ORD1220,2024-12-29,CUST0020,P002,Smartphone,Electronics,SP05,Divya Nair,North,5,16646.57,10,8323.28,74909.57,Debit Card,Completed
+ORD1084,2024-09-07,CUST0025,P001,Laptop,Electronics,SP05,Divya Nair,North,2,47413.56,,,80603.05,Cash,Completed
+ORD1094,2024-06-01,CUST0029,P010,Pen Set,Stationery,SP05,Divya Nair,North,9,125.65,15,169.63,961.22,Cash,Returned
+ORD1228,2024-03-03,CUST0072,P006,Notebook,Stationery,SP05,Divya Nair,,2,81.91,15,24.57,139.25,UPI,Returned
+ORD1138,2024-07-04,CUST0048,P001,Laptop,Electronics,SP06,,South,4,49433.83,5,9886.77,187848.55,Credit Card,Completed
+ORD1027,2024-08-24,CUST0058,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,3,921.88,10,276.56,2489.08,Debit Card,Completed
+ORD1148,2024-11-05,CUST0077,P006,Notebook,Stationery,SP04,Karan Mehta,West,9,79.49,20,143.08,572.33,Net Banking,Completed
+ORD1017,2024-10-03,CUST0026,P009,Headphones,Electronics,SP05,Divya Nair,North,3,2434.78,,,6939.12,Cash,Completed
+ORD1204,2024-09-11,CUST0057,P007,Office Desk,Furniture,SP04,,West,7,8034.22,,,53427.56,Net Banking,Completed
+ORD1255,2024-01-19,CUST0005,P009,Headphones,Electronics,SP06,Arjun Patel,South,3,2544.71,5,381.71,7252.42,Net Banking,Returned
+ORD1214,2024-10-04,CUST0041,P008,USB Hub,Electronics,SP01,Priya Sharma,North,6,654.77,20,785.72,3142.9,UPI,Completed
+ORD1193,2024-10-07,CUST0011,P010,Pen Set,Stationery,SP01,,North,1,110.71,5,5.54,105.17,Cash,Pending
+ORD1311,2024-10-15,CUST0026,P006,Notebook,Stationery,SP05,Divya Nair,South,5,0.0,100,0,0.0,Cash,Completed
+ORD1053,2024-09-16,CUST0041,P006,Notebook,Stationery,SP05,Divya Nair,,2,121.98,10,24.4,219.56,,Returned
+ORD1294,2024-07-10,CUST0020,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,1,718.72,15,107.81,610.91,Credit Card,Pending
+ORD1181,2024-09-17,CUST0068,P006,Notebook,Stationery,SP02,Rahul Verma,South,2,114.6,15,34.38,194.82,UPI,Completed
+ORD1002,2024-09-15,CUST0005,P010,Pen Set,Stationery,SP04,Karan Mehta,West,1,91.24,5,4.56,86.68,Cash,Completed
+ORD1100,2024-10-03,CUST0039,P002,Smartphone,Electronics,SP04,Karan Mehta,West,7,24426.76,20,34197.46,136789.86,Net Banking,Returned
+ORD1235,2024-12-14,CUST0058,P007,Office Desk,Furniture,SP05,Divya Nair,North,9,7678.32,20,13820.98,55283.9,Cash,Completed
+ORD1035,2024-05-02,CUST0034,P009,Headphones,Electronics,SP03,Ananya Singh,East,4,3174.31,10,1269.72,11427.52,UPI,Returned
+ORD1116,2024-06-18,CUST0005,P003,Desk Chair,Furniture,SP04,Karan Mehta,West,3,6009.16,20,3605.5,14421.98,Credit Card,Returned
+ORD1292,2024-09-07,CUST0046,P008,USB Hub,Electronics,SP02,Rahul Verma,South,3,369.98,20,221.99,887.95,Debit Card,Pending
+ORD1158,2024-11-01,CUST0048,P006,Notebook,Stationery,SP02,Rahul Verma,,5,122.16,20,122.16,488.64,Credit Card,Completed
+ORD1189,2024-03-16,CUST0021,P005,Monitor,Electronics,SP01,Priya Sharma,North,5,11145.23,20,11145.23,44580.92,Net Banking,Completed
+ORD1008,2024-12-09,CUST0047,P008,USB Hub,Electronics,SP06,Arjun Patel,South,3,485.09,5,72.76,1382.51,UPI,Completed
+ORD1102,2024-10-22,CUST0074,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,10,1450.79,10,1450.79,13057.11,Credit Card,Completed
+ORD1111,2024-04-07,CUST0032,P008,USB Hub,Electronics,SP04,Karan Mehta,West,8,575.63,15,690.76,3914.28,Cash,Pending
+ORD1169,2024-04-11,CUST0019,P006,Notebook,Stationery,SP06,Arjun Patel,South,4,60.28,10,24.11,217.01,Debit Card,Pending
+ORD1259,2024-08-06,CUST0025,P005,Monitor,Electronics,SP05,Divya Nair,North,3,12276.68,15,5524.51,31305.53,Cash,Completed
+ORD1285,2024-04-21,CUST0025,P001,Laptop,Electronics,SP01,Priya Sharma,North,10,52243.05,20,104486.1,417944.4,,Completed
+ORD1048,2024-07-23,CUST0030,P006,Notebook,Stationery,SP03,Ananya Singh,East,4,52.37,5,10.47,199.01,,Completed
+ORD1162,2024-03-11,CUST0001,P010,Pen Set,Stationery,SP01,Priya Sharma,North,4,116.17,,,441.45,UPI,Completed
+ORD1104,2024-03-23,CUST0053,P008,USB Hub,Electronics,SP03,Ananya Singh,East,6,460.53,0,0.0,2763.18,UPI,Returned
+ORD1301,2024-06-02,CUST0062,P001,Laptop,Electronics,SP01,Ananya Singh,East,1,550000,0,0,550000,Net Banking,Completed
+ORD1272,2024-03-09,CUST0049,P007,Office Desk,Furniture,SP04,Karan Mehta,West,7,6481.5,20,9074.1,36296.4,UPI,Completed
+ORD1119,2024-04-30,CUST0063,P006,Notebook,Stationery,SP06,Arjun Patel,South,9,53.59,,,482.31,UPI,Completed
+ORD1110,2024-09-17,CUST0016,P002,Smartphone,Electronics,SP04,Karan Mehta,West,3,19983.76,10,5995.13,53956.15,UPI,Returned
+ORD1144,2024-09-19,CUST0015,P007,Office Desk,Furniture,SP05,Divya Nair,North,2,8857.48,,,15943.46,Cash,Completed
+ORD1085,2024-05-30,CUST0063,P008,USB Hub,Electronics,SP06,Arjun Patel,South,8,696.47,0,0.0,5571.76,Debit Card,Returned
+ORD1041,2024-02-17,CUST0063,P005,Monitor,Electronics,SP05,Divya Nair,North,5,14337.36,,,71686.8,Net Banking,Completed
+ORD1142,2024-02-26,CUST0019,P001,Laptop,Electronics,SP03,Ananya Singh,East,3,50402.15,5,7560.32,143646.13,Credit Card,Completed
+ORD1045,2024-07-27,CUST0032,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,,2,853.68,20,341.47,1365.89,Cash,Completed
+ORD1291,2024-05-11,CUST0073,P004,Wireless Mouse,Electronics,SP04,Karan Mehta,West,4,999.3,,,3597.48,Net Banking,Returned
+ORD1063,2024-11-22,CUST0061,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,8,5036.77,5,2014.71,38279.45,UPI,Pending
+ORD1190,2024-09-14,CUST0045,P004,Wireless Mouse,Electronics,SP04,Karan Mehta,West,1,914.9,15,137.24,777.66,UPI,Completed
+ORD1239,2024-10-30,CUST0051,P006,Notebook,Stationery,SP02,Rahul Verma,South,10,123.93,10,123.93,1115.37,UPI,Pending
+ORD1043,2024-10-06,CUST0002,P007,Office Desk,Furniture,SP05,,North,2,6451.46,5,645.15,12257.77,Credit Card,Completed
+ORD1297,2024-09-26,CUST0068,P002,Smartphone,Electronics,SP01,Priya Sharma,North,3,17409.69,20,10445.81,41783.26,UPI,Completed
+ORD1174,2024-08-18,CUST0050,P010,Pen Set,Stationery,SP05,Divya Nair,North,8,149.64,0,0.0,1197.12,Cash,Completed
+ORD1028,2024-01-08,CUST0013,P008,USB Hub,Electronics,SP05,Divya Nair,North,1,626.07,,,500.86,Credit Card,Completed
+ORD1166,2024-02-15,CUST0022,P001,Laptop,Electronics,SP03,Ananya Singh,East,10,49600.97,10,49600.97,446408.73,Net Banking,Completed
+ORD1088,2024-05-21,CUST0069,P002,Smartphone,Electronics,SP06,Arjun Patel,South,3,16915.41,15,7611.93,43134.3,Cash,Pending
+ORD1218,2024-08-26,CUST0017,P010,Pen Set,Stationery,SP01,Priya Sharma,North,6,157.08,15,141.37,801.11,Cash,Completed
+ORD1293,2024-01-04,CUST0005,P001,Laptop,Electronics,SP05,Divya Nair,North,2,,0,0.0,,Net Banking,Completed
+ORD1030,2024-12-04,CUST0034,P001,Laptop,Electronics,SP04,Karan Mehta,West,8,47852.49,20,76563.98,306255.94,Net Banking,Completed
+ORD1088,2024-05-21,CUST0069,P002,Smartphone,Electronics,SP06,Arjun Patel,South,3,16915.41,15,7611.93,43134.3,Cash,Pending
+ORD1208,2024-01-16,CUST0052,P001,Laptop,Electronics,SP01,Priya Sharma,North,6,50130.86,5,15039.26,285745.9,Debit Card,Pending
+ORD1154,2024-10-20,CUST0045,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,9,867.56,,,7729.96,Debit Card,Returned
+ORD1154,2024-10-20,CUST0045,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,9,867.56,,,7027.24,Debit Card,Returned
+ORD1035,2024-05-02,CUST0034,P009,Headphones,Electronics,SP03,Ananya Singh,East,4,3174.31,10,1269.72,11427.52,UPI,Returned
+ORD1164,2024-08-11,CUST0072,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,6,572.08,0,0.0,3432.48,Credit Card,Returned
+ORD1232,2024-11-01,CUST0046,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,1,550.54,15,82.58,467.96,Net Banking,Completed
+ORD1225,2024-09-04,CUST0070,P008,USB Hub,Electronics,SP06,Arjun Patel,South,5,620.95,10,310.48,2794.27,Debit Card,Returned
+ORD1050,2024-08-10,CUST0075,P005,Monitor,Electronics,SP02,Rahul Verma,South,5,8267.8,20,8267.8,33071.2,UPI,Completed
+ORD1244,2024-09-13,CUST0020,P006,Notebook,Stationery,SP04,Karan Mehta,West,7,119.05,,,708.35,Cash,Returned
+ORD1270,2024-06-25,CUST0028,P001,Laptop,Electronics,SP06,Arjun Patel,South,10,45730.3,15,68595.45,388707.55,Credit Card,Pending
+ORD1277,2024-03-12,CUST0057,P001,Laptop,Electronics,SP04,Karan Mehta,West,4,50397.6,,,201590.4,Cash,Completed
+ORD1106,2024-08-24,CUST0066,P002,Smartphone,Electronics,SP04,Karan Mehta,West,1,21576.6,20,4315.32,17261.28,Net Banking,Completed
+ORD1234,2024-10-10,CUST0007,P001,Laptop,Electronics,SP04,Karan Mehta,West,10,50618.17,10,50618.17,455563.53,UPI,Completed
+ORD1176,2024-08-12,CUST0023,P002,Smartphone,Electronics,SP05,Divya Nair,North,1,17477.44,15,2621.62,14855.82,Cash,Pending
+ORD1160,2024-02-28,CUST0054,P010,Pen Set,Stationery,SP04,Karan Mehta,West,5,105.87,20,105.87,423.48,UPI,Returned
+ORD1179,2024-12-05,CUST0078,P005,Monitor,Electronics,SP06,Arjun Patel,South,3,10333.53,20,6200.12,24800.47,Debit Card,Completed
+ORD1073,2024-04-12,CUST0009,P006,Notebook,Stationery,SP02,Rahul Verma,South,1,125.42,5,6.27,119.15,Credit Card,Pending
+ORD1060,2024-03-31,CUST0001,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,2,7113.68,5,711.37,13515.99,Cash,Returned
+ORD1018,2024-06-06,CUST0063,P010,Pen Set,Stationery,SP03,Ananya Singh,East,1,93.42,10,9.34,84.08,Debit Card,Completed
+ORD1213,2024-02-07,CUST0037,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,8,700.18,5,280.07,5321.37,Net Banking,Completed
+ORD1152,2024-06-30,CUST0072,P010,Pen Set,Stationery,SP05,,North,6,160.4,15,144.36,818.04,Net Banking,Completed
+ORD1054,2024-12-06,CUST0038,P006,Notebook,Stationery,SP04,Karan Mehta,West,9,62.73,15,84.69,479.88,Net Banking,Completed
+ORD1248,2024-05-20,CUST0063,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,6,979.8,20,1175.76,4703.04,UPI,Completed
+ORD1013,2024-02-26,CUST0018,P006,Notebook,Stationery,SP02,Rahul Verma,South,9,99.35,0,0.0,894.15,Debit Card,Completed
+ORD1177,2024-07-28,CUST0047,P010,Pen Set,Stationery,SP02,Rahul Verma,South,6,190.15,15,171.13,969.77,UPI,Pending
+ORD1078,2024-02-05,CUST0045,P010,Pen Set,Stationery,SP01,Priya Sharma,North,9,131.41,10,118.27,1064.42,Cash,Completed
+ORD1257,2024-09-15,CUST0070,P005,Monitor,Electronics,SP04,Karan Mehta,West,9,11457.39,,,97960.68,Net Banking,Completed
+ORD1238,2024-03-12,CUST0059,P008,USB Hub,Electronics,SP05,Divya Nair,North,3,603.13,20,361.88,1447.51,UPI,Pending
+ORD1201,2024-01-23,CUST0009,P003,Desk Chair,Furniture,SP02,Rahul Verma,South,8,4147.94,5,1659.18,31524.34,Debit Card,Completed
+ORD1192,2024-12-27,CUST0037,P003,Desk Chair,Furniture,SP01,Priya Sharma,North,8,6784.29,5,2713.72,51560.6,Net Banking,Returned
+ORD1229,2024-11-11,CUST0013,P004,Wireless Mouse,Electronics,SP02,Rahul Verma,South,1,790.21,15,118.53,671.68,Net Banking,Completed
+ORD1290,2024-03-19,CUST0075,P005,Monitor,Electronics,SP05,Divya Nair,North,10,13040.08,10,13040.08,117360.72,Debit Card,Completed
+ORD1286,2024-09-02,CUST0002,P006,Notebook,Stationery,SP03,Ananya Singh,,4,143.72,0,0.0,574.88,Debit Card,Pending
+ORD1266,2024-02-01,CUST0047,P009,Headphones,Electronics,SP06,Arjun Patel,South,2,3793.11,0,0.0,7586.22,Cash,Pending
+ORD1262,2024-08-26,CUST0047,P001,Laptop,Electronics,SP03,Ananya Singh,East,4,45621.24,0,0.0,182484.96,UPI,Completed
+ORD1114,2024-04-06,CUST0070,P006,Notebook,Stationery,SP05,Divya Nair,North,7,95.53,10,66.87,601.84,Debit Card,Pending
+ORD1133,2024-02-25,CUST0048,P002,Smartphone,Electronics,SP04,Karan Mehta,West,5,20845.6,10,10422.8,93805.2,Debit Card,Returned
+ORD1051,2024-04-07,CUST0066,P007,Office Desk,Furniture,SP05,Divya Nair,North,2,8311.17,,,13297.87,UPI,Completed
+ORD1006,2024-07-04,CUST0071,P007,Office Desk,Furniture,SP01,Priya Sharma,North,5,10976.43,20,10976.43,43905.72,Cash,Completed
+ORD1055,2024-06-04,CUST0039,P010,Pen Set,Stationery,SP05,Divya Nair,,7,145.75,0,0.0,1020.25,UPI,Completed
+ORD1221,2024-05-20,CUST0011,P009,Headphones,Electronics,SP03,Ananya Singh,,5,1990.75,20,1990.75,7963.0,Debit Card,Completed
+ORD1170,2024-08-25,CUST0010,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,3,7805.17,,,19903.18,Cash,Pending
+ORD1205,2024-04-02,CUST0011,P009,Headphones,Electronics,SP03,Ananya Singh,East,7,1697.32,20,2376.25,9504.99,Cash,Completed
+ORD1289,2024-04-23,CUST0048,P006,Notebook,Stationery,SP02,Rahul Verma,South,6,91.39,,,438.67,Debit Card,Completed
+ORD1023,2024-06-18,CUST0010,P004,Wireless Mouse,Electronics,SP01,Priya Sharma,North,1,728.94,0,0.0,728.94,Credit Card,Pending
+ORD1086,2024-06-25,CUST0075,P004,Wireless Mouse,Electronics,SP03,Ananya Singh,East,6,973.26,20,1167.91,4671.65,Net Banking,Pending
+ORD1182,2024-04-08,CUST0024,P006,Notebook,Stationery,SP03,Ananya Singh,East,4,84.17,15,50.5,286.18,,Completed
+ORD1128,2024-11-17,CUST0025,P004,Wireless Mouse,Electronics,SP06,Arjun Patel,South,10,750.63,5,375.31,7130.99,Credit Card,Completed
+ORD1056,2024-12-11,CUST0078,P007,Office Desk,Furniture,SP05,Divya Nair,North,6,8789.93,15,7910.94,44828.64,Debit Card,Pending
+ORD1044,2024-07-05,CUST0019,P010,Pen Set,Stationery,SP05,,North,7,,10,66.7,,Credit Card,Completed
+ORD1275,2024-11-10,CUST0025,P003,Desk Chair,Furniture,SP03,Ananya Singh,East,2,4128.87,15,1238.66,7019.08,Credit Card,Completed
+ORD1185,2024-08-15,CUST0053,P008,USB Hub,Electronics,SP01,Priya Sharma,,6,638.18,5,191.45,3637.63,Cash,Completed
+ORD1019,2024-09-29,CUST0011,P004,Wireless Mouse,Electronics,SP05,Divya Nair,North,2,1231.91,0,0.0,2463.82,Debit Card,Completed
+ORD1279,2024-10-29,CUST0053,P009,Headphones,Electronics,SP02,Rahul Verma,South,5,2187.88,,,8751.52,Debit Card,Returned
+ORD1215,2024-04-12,CUST0023,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,6,6035.02,0,0.0,36210.12,Debit Card,Completed
+ORD1260,2024-06-14,CUST0013,P002,Smartphone,Electronics,SP04,Karan Mehta,West,3,24816.85,15,11167.58,63282.97,Debit Card,Completed
+ORD1274,2024-05-06,CUST0070,P008,USB Hub,Electronics,SP06,Arjun Patel,South,7,565.97,5,198.09,3763.7,Net Banking,Completed
+ORD1206,2024-08-16,CUST0011,P006,Notebook,Stationery,SP01,Priya Sharma,North,6,116.09,10,69.65,626.89,Cash,Returned
+ORD1299,2024-07-12,CUST0011,P005,Monitor,Electronics,SP06,Arjun Patel,South,1,8654.5,15,1298.17,7356.33,Cash,Returned
+ORD1246,2024-10-06,CUST0023,P007,Office Desk,Furniture,SP03,Ananya Singh,East,8,11472.74,10,9178.19,82603.73,UPI,Completed
+ORD1064,2024-04-30,CUST0031,P008,USB Hub,Electronics,SP06,Arjun Patel,South,5,519.94,10,259.97,2339.73,UPI,Completed
+ORD1230,2024-09-12,CUST0074,P003,Desk Chair,Furniture,SP03,Ananya Singh,,6,4759.34,5,1427.8,27128.24,Cash,Returned
+ORD1038,2024-12-26,CUST0037,P004,Wireless Mouse,Electronics,SP03,,East,3,938.18,20,562.91,2251.63,UPI,Pending
+ORD1194,2024-05-02,CUST0037,P007,Office Desk,Furniture,SP01,Priya Sharma,North,4,7806.91,0,0.0,31227.64,Net Banking,Pending
+ORD1217,2024-09-26,CUST0040,P002,Smartphone,Electronics,SP01,Priya Sharma,North,7,24995.95,15,26245.75,148725.9,Net Banking,Returned
+ORD1079,2024-11-21,CUST0063,P001,Laptop,Electronics,SP04,,West,2,49335.23,10,9867.05,88803.41,Net Banking,Completed
+ORD1130,2024-09-28,CUST0026,P007,Office Desk,Furniture,SP02,Rahul Verma,South,3,10719.08,10,3215.72,28941.52,Cash,Completed
+ORD1124,2024-10-27,CUST0070,P005,Monitor,Electronics,SP06,Arjun Patel,South,3,8517.03,,,22995.98,UPI,Returned
+ORD1156,2024-10-16,CUST0045,P005,Monitor,Electronics,SP03,Ananya Singh,East,1,9269.84,5,463.49,8806.35,Net Banking,Completed
+ORD1072,2024-01-10,CUST0054,P007,Office Desk,Furniture,SP03,Ananya Singh,East,5,11009.47,,,46790.25,Cash,Completed
+ORD1256,2024-11-04,CUST0038,P003,Desk Chair,Furniture,SP06,Arjun Patel,South,1,4037.07,20,807.41,3229.66,Credit Card,Completed
