@@ -1,0 +1,11 @@
+customer_id,customer_name,city,region,segment,loyalty_tier
+C001,Alice Johnson,London,South East,Retail,Gold
+C002,Bob Smith,Manchester,North West,Wholesale,Silver
+C003,Clara Hughes,Birmingham,West Midlands,Retail,Bronze
+C004,David Lee,Leeds,Yorkshire,Retail,Gold
+C005,Emma Brown,Bristol,South West,Wholesale,Silver
+C006,Frank Wilson,Sheffield,Yorkshire,Retail,Bronze
+C007,Grace Kim,Liverpool,North West,Retail,Gold
+C008,Henry Taylor,Nottingham,East Midlands,Wholesale,Silver
+C009,Isla Martin,Edinburgh,Scotland,Retail,Gold
+C010,James White,Cardiff,Wales,Wholesale,Bronze
